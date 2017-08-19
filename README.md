@@ -1,8 +1,9 @@
 ## Fast TensorFlow Style Transfer Fun
-#From lengstrom
+
+###From lengstrom
 
 ## Style Transfer on India Photos
-Forked this from lengstrom, found some photos that my friend took when we were in India, and applied the styles. The results were pretty cool. Take a look!
+Forked this from lengstrom. I'm feeding pictures my friend took when we were in India to deep learning models that have been trained on different classic paintings. The models are applying the styles they learned to the pictures and producing the output you see here. The results were pretty cool. Take a look!
 
 <p align = 'center'>
 <img src = 'examples/style/the_shipwreck_of_the_minotaur.jpg' height = '246px'>
@@ -11,6 +12,31 @@ Forked this from lengstrom, found some photos that my friend took when we were i
 </p>
 <p align = 'center'>
 </p>
+
+<p align = 'center'>
+<img src = 'examples/style/the_scream.jpg' height = '246px'>
+<img src = 'examples/content/child.jpg' height = '246px'>
+<a href = 'examples/results/child_scream.jpg'><img src = 'examples/results/child_scream.jpg' width = '627px'></a>
+</p>
+<p align = 'center'>
+</p>
+
+<p align = 'center'>
+<img src = 'examples/style/la_muse.jpg' height = '246px'>
+<img src = 'examples/content/fruitstand.jpg' height = '246px'>
+<a href = 'examples/results/fruit_muse.jpg'><img src = 'examples/results/fruit_muse.jpg' width = '627px'></a>
+</p>
+<p align = 'center'>
+</p>
+
+<p align = 'center'>
+<img src = 'examples/style/wave.jpg' height = '246px'>
+<img src = 'examples/content/mosquebytaj.jpg' height = '246px'>
+<a href = 'examples/results/wave_taj.jpg'><img src = 'examples/results/wave_taj.jpg' width = '627px'></a>
+</p>
+<p align = 'center'>
+</p>
+
 
 
 
