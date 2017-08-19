@@ -5,7 +5,7 @@
 Forked this from lengstrom, found some photos that my friend took when we were in India, and applied the styles. The results were pretty cool. Take a look!
 
 <p align = 'center'>
-<img src = 'examples/style/wreck.jpg' height = '246px'>
+<img src = 'examples/style/the_shipwreck_of_the_minotaur.jpg' height = '246px'>
 <img src = 'examples/content/boats.jpg' height = '246px'>
 <a href = 'examples/results/wreck_boats.jpg'><img src = 'examples/results/wreck_boats.jpg' width = '627px'></a>
 </p>
