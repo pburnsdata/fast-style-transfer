@@ -1,6 +1,6 @@
 ## Fast TensorFlow Style Transfer Fun
 
-###From lengstrom
+### From lengstrom
 
 ## Style Transfer on India Photos
 Forked this from lengstrom. I'm feeding pictures my friend took when we were in India to deep learning models that have been trained on different classic paintings. The models are applying the styles they learned to the pictures and producing the output you see here. The results were pretty cool. Take a look!
@@ -31,7 +31,7 @@ Forked this from lengstrom. I'm feeding pictures my friend took when we were in 
 
 <p align = 'center'>
 <img src = 'examples/style/wave.jpg' height = '246px'>
-<img src = 'examples/content/mosquebytaj.jpg' height = '246px'>
+<img src = 'examples/content/Mosquebytaj.jpg' height = '246px'>
 <a href = 'examples/results/wave_taj.jpg'><img src = 'examples/results/wave_taj.jpg' width = '627px'></a>
 </p>
 <p align = 'center'>
@@ -56,6 +56,7 @@ Their implementation uses TensorFlow to train a fast style transfer network. The
   }
 ```
 
+### Photo credits to Jonathan Morris
 
 ### License
 Copyright (c) 2016 Logan Engstrom. Contact me for commercial use (email: engstrom at my university's domain dot edu). Free for research/noncommercial use, as long as proper attribution is given and this copyright notice is retained.
