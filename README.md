@@ -44,20 +44,7 @@ I'm feeding pictures my friend took when we were in India to deep learning model
 Their implementation uses TensorFlow to train a fast style transfer network. They use roughly the same transformation network as described in Johnson, except that batch normalization is replaced with Ulyanov's instance normalization, and the scaling/offset of the output `tanh` layer is slightly different. They use a loss function close to the one described in Gatys, using VGG19 instead of VGG16 and typically using "shallower" layers than in Johnson's implementation (e.g. we use `relu1_1` rather than `relu1_2`). Empirically, this results in larger scale style features in transformations.
 
 
-
-### Citation
-```
-  @misc{engstrom2016faststyletransfer,
-    author = {Logan Engstrom},
-    title = {Fast Style Transfer},
-    year = {2016},
-    howpublished = {\url{https://github.com/lengstrom/fast-style-transfer/}},
-    note = {commit xxxxxxx}
-  }
-```
-
 ### Photo credits to Jonathan Morris
 
 ### License
-Copyright (c) 2016 Logan Engstrom. Contact me for commercial use (email: engstrom at my university's domain dot edu). Free for research/noncommercial use, as long as proper attribution is given and this copyright notice is retained.
-
+Copyright (c) 2016 Logan Engstrom. 
